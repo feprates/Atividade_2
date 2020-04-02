@@ -1,2 +1,3 @@
 Nome: Felipe
 email: fsprates@bol.com.br
+Curso: Sistemas de Informação
